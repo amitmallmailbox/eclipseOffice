@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 activeuserprofiles=Amit-PC;Team
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=Amit
 useridperkey=Amit-PC.Local\=Amit;
+=======
+activeuserprofiles=Team;ammall-dev;ammall-dev3-vm1
+eclipse.preferences.version=1
+org.eclipse.rse.systemtype.local.systemType.defaultUserId=ammall
+useridperkey=ammall-dev.Local\=ammall;ammall-dev3-vm1.Local\=ammall;
+>>>>>>> 4113261ace62eb78be6610bc55b919fc3ef97325

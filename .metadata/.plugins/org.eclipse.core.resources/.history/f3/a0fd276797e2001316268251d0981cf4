@@ -1,0 +1,17 @@
+import java.util.Arrays;
+
+public class DiskSpace {
+
+	public int minDrives(int[] used, int[] total) {
+		int usedSum = 0;
+		for (int i = total.length - 1; i >= 0; i--) {
+			usedSum += used[i];
+		}
+		Arrays.sort(total);
+		for (int i = total.length - 1; i >= 0; i--) {
+			
+		}
+		return 0;
+	}
+
+}

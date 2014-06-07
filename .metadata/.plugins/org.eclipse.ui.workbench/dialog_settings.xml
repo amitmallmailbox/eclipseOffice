@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+<<<<<<< HEAD
 	<section name="org.eclipse.ui.internal.QuickAccess">
 		<item value="1440" key="dialogWidth"/>
 		<item value="759" key="dialogHeight"/>
@@ -27,6 +28,33 @@
 			<item value="org.eclipse.debug.ui"/>
 			<item value="net.fornwall.eclipsecoder.views"/>
 			<item value="org.eclipse.egit.ui.GitCategory"/>
+=======
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="512" key="DIALOG_X_ORIGIN"/>
+		<item value="58" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="713" key="dialogHeight"/>
+		<item value="960" key="dialogWidth"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="ShowViewDialog">
+		<item value="311" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|5|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="net.fornwall.eclipsecoder.archive.ArchiveListView" key="ShowViewDialog.STORE_SELECTED_VIEW_ID"/>
+		<item value="439" key="DIALOG_HEIGHT"/>
+		<item value="653" key="DIALOG_X_ORIGIN"/>
+		<item value="191" key="DIALOG_Y_ORIGIN"/>
+		<list key="ShowViewDialog.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="net.fornwall.eclipsecoder.views"/>
+>>>>>>> 4113261ace62eb78be6610bc55b919fc3ef97325
 		</list>
 	</section>
 </section>

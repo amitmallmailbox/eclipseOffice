@@ -1,2 +1,6 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 org.eclipse.rse.preferences.order.connections=Amit-PC.Local
+=======
+org.eclipse.rse.preferences.order.connections=ammall-dev3-vm1.Local;ammall-dev.Local
+>>>>>>> 4113261ace62eb78be6610bc55b919fc3ef97325

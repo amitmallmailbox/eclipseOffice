@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;j&apos; from expression &apos;points[i]&apos;&#x0D;&#x0A;- Original project: &apos;bonuses-java&apos;&#x0D;&#x0A;- Variable name: &apos;j&apos;&#x0D;&#x0A;- Destination method: &apos;Bonuses.getDivision()&apos;&#x0D;&#x0A;- Variable expression: &apos;points[i]&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;j&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/&lt;{Bonuses.java" name="j" replace="true" selection="240 10" stamp="1399480453217" version="1.0"/>
+</session>

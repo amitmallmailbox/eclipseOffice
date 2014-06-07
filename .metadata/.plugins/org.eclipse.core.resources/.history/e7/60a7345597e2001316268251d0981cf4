@@ -1,0 +1,7 @@
+public class DiskSpace {
+
+	public int minDrives(int[] used, int[] total) {
+		return 0;
+	}
+
+}

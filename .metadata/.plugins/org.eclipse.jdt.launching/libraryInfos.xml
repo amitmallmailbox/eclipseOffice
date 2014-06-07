@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
+<<<<<<< HEAD
 <libraryInfo home="C:\Program Files\Java\jre7" version="1.7.0_17">
 <bootpath>
 <entry path="C:\Program Files\Java\jre7\lib\resources.jar"/>
@@ -17,6 +18,25 @@
 </extensionDirs>
 <endorsedDirs>
 <entry path="C:\Program Files\Java\jre7\lib\endorsed"/>
+=======
+<libraryInfo home="C:\Program Files\Java\jre8" version="1.8.0_05">
+<bootpath>
+<entry path="C:\Program Files\Java\jre8\lib\resources.jar"/>
+<entry path="C:\Program Files\Java\jre8\lib\rt.jar"/>
+<entry path="C:\Program Files\Java\jre8\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\Java\jre8\lib\jsse.jar"/>
+<entry path="C:\Program Files\Java\jre8\lib\jce.jar"/>
+<entry path="C:\Program Files\Java\jre8\lib\charsets.jar"/>
+<entry path="C:\Program Files\Java\jre8\lib\jfr.jar"/>
+<entry path="C:\Program Files\Java\jre8\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\Java\jre8\lib\ext"/>
+<entry path="C:\windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\Java\jre8\lib\endorsed"/>
+>>>>>>> 4113261ace62eb78be6610bc55b919fc3ef97325
 </endorsedDirs>
 </libraryInfo>
 </libraryInfos>
